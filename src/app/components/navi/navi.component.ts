@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './navi.component.html',
   styleUrls: ['./navi.component.css']
 })
-export class NaviComponent implements OnInit {
+export class NaviComponent implements OnInit { 
 
   constructor() { }
 
